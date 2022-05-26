@@ -1,0 +1,8 @@
+#app.yaml
+runtime: python37
+
+env_variables:
+  CLOUD_SQL_USERNAME: bisa
+  CLOUD_SQL_PASSWORD: bisa
+  CLOUD_SQL_DATABASE_NAME: lookies
+  CLOUD_SQL_CONNECTION_NAME: publicip-351410:asia-southeast2:cobalagi
